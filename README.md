@@ -1,4 +1,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c08a893c4c974ab6bba8d224f2cc9716)](https://app.codacy.com/gh/tamu960925/junit5-samples/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Build all samples](https://github.com/tamu960925/junit5-samples/actions/workflows/build-all-samples.yml/badge.svg)](https://github.com/tamu960925/junit5-samples/actions/workflows/build-all-samples.yml)
 # JUnit 5 Samples [![ci-badge]][ci-actions]
 
 Welcome to _JUnit 5 Samples_, a collection of sample applications and extensions
