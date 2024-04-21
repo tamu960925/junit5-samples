@@ -13,3 +13,7 @@ jobs:
           distribution: temurin
       - name: 'Build all samples using JShell'
         run: jshell build-all-samples.jsh
+      - name: Upload coverage to Codacy
+        uses: codacy/codacy-coverage-reporter-action@master
+        with:
+          project-token: ${{ secrets.CODACY_PROJECT_API_TOKEN }} 
